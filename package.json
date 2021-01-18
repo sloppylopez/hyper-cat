@@ -1,8 +1,8 @@
 {
-  "name": "hyper-cat",
+  "name": "hyper-cat-black",
   "version": "4.0.0",
   "description": "Turn your Hyper terminal into nyan cat while typing.",
-  "author": "Aaron Hardy",
+  "author": "Sergio Lopez",
   "license": "MIT",
   "keywords": [
     "hyper",
@@ -16,10 +16,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aaronius/hyper-cat.git"
+    "url": "git+https://github.com/sloppylopez/hyper-cat-black.git"
   },
   "bugs": {
-    "url": "https://github.com/Aaronius/hyper-cat/issues"
+    "url": "https://github.com/sloppylopez/hyper-cat-black/issues"
   },
-  "homepage": "https://github.com/Aaronius/hyper-cat#readme"
+  "homepage": "https://github.com/sloppylopez/hyper-cat-black#readme"
 }
